@@ -1,0 +1,51 @@
+date-12.03.2025
+Practical No-03
+Problem Specification-Intialize different types of variables and print them.
+
+
+
+Implementation-
+class My3rdjavaprogram{
+	 public static void main(String [] args)
+	 {
+		 boolean isBool =true;
+		 System.out.println("Boolean:"+isBool);
+		 
+		 byte ByteVal =120;
+		 System.out.println("Byte:"+ByteVal);
+		 
+		 int IntVal =1;
+		 System.out.println("Integer:"+IntVal);
+		 
+		 short ShortVal =14569;
+		 System.out.println("Short:"+ShortVal);
+		 
+		 long LongVal =10000;
+		 System.out.println("Long:"+LongVal);
+		 
+		 float FloatVal =19.56f;
+		 System.out.println("Float:"+FloatVal);
+		 
+		 double DoubleVal =169.456;
+		 System.out.println("Double:"+DoubleVal);
+		 
+		 char CharVal ='a';
+		 System.out.println("Char:"+CharVal);
+		 
+		 char CharVall = '\u0064';
+		 System.out.println("Char:"+CharVall);
+		 
+	 }
+ }
+outputs
+01 :Boolean:true
+02 :Byte:120
+03 :Integer:1
+04 :Short:14569
+05 :Long:10000
+06 :Float:19.56
+07 :Double:169.456
+08 :Char:a
+09 :Char:d
+
+conclusion- learnt how to initialize the datatyoes and variables in java.
