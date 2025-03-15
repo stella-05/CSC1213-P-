@@ -1,0 +1,18 @@
+date-12.03.2025
+practical no-05
+problem specification-print your name and address.
+
+Implementation-
+class StudentDetails{
+	public static void main(String[] args)
+	{
+		System.out.println("Firt Name: Stella \nLast Name : Evenjalin \nAddress : Kotehena,Colombo 13");
+	}
+}
+ outputs-
+ First Name-Stella
+ Last Name-Evenjalin
+ Address-kotehena,Colombo 13
+
+ conclusion-learnt how to print my name and address by using java.
+ 
