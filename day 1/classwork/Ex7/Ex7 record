@@ -1,0 +1,27 @@
+Date-12.03.2025
+practical no-07
+problem specification-initialize 2 integers and find addition,subtraction,multiplication,division and modulos.
+
+implementation-
+class Twovariables{
+	public static void main(String[] args)
+	{
+		int num1=20;
+		int num2=10;
+		
+		System.out.println("Addition:"+(num1+num2));
+		System.out.println("Subtraction:"+(num1-num2));
+		System.out.println("Multiplication:"+(num1*num2));
+		System.out.println("Division:"+(num1/num1));
+		System.out.println("modulos:"+(num1%num2));
+	}
+}
+
+outputs-
+Addition:30
+subtraction:10
+Multiplication:200
+Division:1
+modulos:0
+
+conclusion-learnt how to find addition,subtraction,multiplication,modulos and division by using java.
