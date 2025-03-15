@@ -1,0 +1,41 @@
+Date-12.03.2025
+practical no -02
+Problem Specification- print examples for using each datatypes withvariables.
+
+
+Implementation-
+class My2ndjavaprogram{
+	public static void main(String [] args)
+	{
+		String fac = ("FAS");
+		int n = 3;
+		double p = 10.5;
+		int m = 5;
+		char w1 = '&';
+		boolean isTH = true;
+		
+		System.out.println(fac);
+		System.out.println(n);
+		System.out.println(p);
+		System.out.println(m);
+		System.out.println(w1);
+		System.out.println(isTH);
+		
+		System.out.println("My Faculty is"+ fac);
+		System.out.println("The result1 is"+(n+m));
+		System.out.println("The result2 is"+(p+m));
+	}
+}
+
+output1:FAS
+output2:3
+output3:10.5
+output4:5
+output5:&
+output6: true
+output7: my faculty is FAS
+output8:The result1 is 8
+output9:The result2 is 15.5
+
+conclusion- learnt how to use datatypes in java programming. 
+  
