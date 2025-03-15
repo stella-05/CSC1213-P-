@@ -1,0 +1,37 @@
+Date-12.03.2025
+practical no-06
+problem specification-change data types and find the value of ascii character.
+
+Implementation-
+		class Exercise{
+	public static void main(String[] args)
+	{
+		//find the ascii value of the character
+		char c1 ='g';
+		System.out.println("The character is:"+c1);
+		
+		//changing the char into int
+		int int1=(int)c1;
+		System.out.println("The character is:"+int1);
+		
+		//changing the double into int
+		double d1= 10.09;
+		System.out.println("The value is:"+d1);
+		
+		int int2=(int)d1;
+		System.out.println("The value is:"+int2);
+		
+		double d2= int1;
+		System.out.println("The value is:"+d2);
+		//int is a 4 byte double is 8 byte=>int<double
+	}
+}
+
+outputs-
+The Character is:g
+The character is :103
+The value is:10.09
+The value is:10
+The value is:103.0
+
+conclusion-learnt howw to change the data types and how to find the values of ascii character.
