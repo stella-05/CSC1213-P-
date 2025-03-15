@@ -1,0 +1,30 @@
+date-12.03.2025
+Practical No-04
+Problem specification-Print your name,address and your course.
+Implementation-
+class StuDetails{
+	public static void main(String[] args)
+	{
+		System.out.println("Name: Stella Evenjalin");
+		System.out.println("Registration Number: 2022/ASP/75");
+		System.out.println("Degree Programme: BSc.ComputerScience");
+		
+		String Name ="Stella Evenjalin";
+		String RegNo="2022/ASP/75";
+		String Degree="BSc.ComputerScience";
+		
+		System.out.println("Full Name :"+Name);
+		System.out.println("Registration Number:"+RegNo);
+		System.out.println("Degree program:"+ Degree);
+	}
+}
+ outputs-
+Name:Stella Evenjalin
+Registration Number: 2022/ASP/75
+Degree program: BSc.ComputerScience
+Full Name: Stella Evenjalin
+Registration Number:2022/ASp/75
+Degree program: BSc.CoputerScience
+
+conclusion-learnt how to print a university student's details in java.
+
